@@ -7,7 +7,7 @@
 **Nelson's laugh- Incapacitated** is a Left 4 Dead 2 sound mod. It adds Nelson's laugh when a player gets incapacitated.
 
 ## Credits
-Voice from the TV Series / Cartoon Simpsons </br>
+Voice from the TV Series / Cartoon Simpsons <br/>
 Voice by Nancy Cartwright
 
 ## Download
